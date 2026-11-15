@@ -1,0 +1,1 @@
+"""AMUECSF bot test suite."""
